@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "alex@test.com",
+      "password": "hababa"
+    }
+  ],
+  "products": [
+    {
+      "userId": 1,
+      "imgurl": "images/water-bottle.jpg",
+      "title": "Eco-friendly Water Bottle",
+      "description": "Made from 100% recycled plastic. BPA-free.",
+      "category": "accessories",
+      "sku": "WB20054",
+      "stock": "120",
+      "price": "14.99",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "imgurl": "/images/ball.jpg",
+      "title": "Ball",
+      "description": "test description",
+      "category": "games",
+      "sku": "jug0043",
+      "stock": "200",
+      "price": "25.99",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "imgurl": "/images/apples.jpg",
+      "title": "Apples",
+      "description": "Numai bune de mancat",
+      "category": "fruit",
+      "sku": "mer00121",
+      "stock": "5000",
+      "price": "1.5",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "imgurl": "/images/phone.jpg",
+      "title": "Analog Phone",
+      "description": "Vintage black analog phone",
+      "category": "misc",
+      "sku": "ph08556",
+      "stock": "5",
+      "price": "35.45",
+      "id": 4
+    }
+  ]
+}

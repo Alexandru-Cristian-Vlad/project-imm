@@ -5,11 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "server": "json-server-auth --watch db.json -r routes.json -p 3080",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.7",
+    "clsx": "^2.1.1",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3"
