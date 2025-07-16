@@ -9,7 +9,7 @@
   "products": [
     {
       "userId": 1,
-      "imgurl": "images/water-bottle.jpg",
+      "imgurl": "/images/water-bottle.jpg",
       "title": "Eco-friendly Water Bottle",
       "description": "Made from 100% recycled plastic. BPA-free.",
       "category": "accessories",
